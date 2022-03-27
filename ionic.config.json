@@ -1,0 +1,7 @@
+{
+  "name": "GithubPushTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
